@@ -23,6 +23,6 @@ Score: 0.0226 (LogLoss)
 
 ## Authors
 
-Muhamed Tuo
-Cedric Manouan
-Emmanuel Koupoh
+Muhamed Tuo  
+Cedric Manouan  
+Emmanuel Koupoh  
