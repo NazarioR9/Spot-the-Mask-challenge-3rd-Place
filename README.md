@@ -9,9 +9,9 @@ This competitions was about predicting whether a person in an image is wearing a
 ## Repository structure
 
 |----Data  
------|---images.zip  
------|---train_labels.csv  
------|---sample_sub_v2.csv  
+|-----|---images.zip  
+|-----|---train_labels.csv  
+|-----|---sample_sub_v2.csv  
 |----Mask Challenge Solution  
------|---Spot_the_mask_challenge.ipynb  
+|-----|---Spot_the_mask_challenge.ipynb  
 |----Readme.md  
