@@ -25,4 +25,4 @@ Score: 0.0226 (LogLoss)
 
 [Muhamed Tuo](https://github.com/NazarioR9)  
 [Cedric Manouan](https://github.com/dric2018)  
-[Emmanuel Koupoh](htpps://https://github.com/eaedk)    
+[Emmanuel Koupoh](htpps://github.com/eaedk)    
