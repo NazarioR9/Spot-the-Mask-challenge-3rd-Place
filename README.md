@@ -2,7 +2,7 @@
 
 ## Description
 
-This competitions was about predicting whether a person in an image is wearing a face mask or not. It was hosted by [Zindi](https://zindi.africa) and lasted for 3 days (from Thursday 17 April to Sunday 20).  
+This hackathon was about predicting whether a person in an image is wearing a face mask or not. It was hosted by [Zindi](https://zindi.africa/hackathons/spot-the-mask-challenge/) and lasted for 3 days (from Thursday 17 April to Sunday 20).  
 
 
 
@@ -15,3 +15,14 @@ This competitions was about predicting whether a person in an image is wearing a
 |----Mask Challenge Solution  
 |-----|---Spot_the_mask_challenge.ipynb  
 |----Readme.md  
+
+## Final Leaderbord
+
+Position: 4th / 147
+Score: 0.0226 (LogLoss)
+
+## Authors
+
+Muhamed Tuo
+Cedric Manouan
+Emmanuel Koupoh
