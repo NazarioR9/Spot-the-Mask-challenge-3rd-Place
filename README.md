@@ -18,8 +18,8 @@ This hackathon was about predicting whether a person in an image is wearing a fa
 
 ## Final Leaderbord
 
-Position: 4th / 147
-Score: 0.0226 (LogLoss)
+Position: 4th / 147  
+Score: 0.0226 (LogLoss) 
 
 ## Authors
 
