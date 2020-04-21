@@ -137,7 +137,11 @@ You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly
 ```
 MIT License
 
+<<<<<<< HEAD
 Copyright (c) 2020 TheCIA.
+=======
+## Final Leaderboard
+>>>>>>> 23c9dbce4e880024d23d8a776913ea4b51727263
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
