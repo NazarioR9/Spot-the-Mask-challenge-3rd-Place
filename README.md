@@ -16,7 +16,7 @@ This hackathon was about predicting whether a person in an image is wearing a fa
 |-----|---Spot_the_mask_challenge.ipynb  
 |----Readme.md  
 
-## Final Leaderbord
+## Final Leaderboard
 
 Position: 4th / 147  
 Score: 0.0226 (LogLoss) 
