@@ -118,7 +118,7 @@ You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly
 
 ## 🏆<span style='color:green'> Final Leaderbord </span>
 
-🏅**Position**: 4th / 147  
+🏅**Position**: 3rd / 147  
  🏅**Score**: 0.0226 (LogLoss) 
 
 [See the leaderboard](https://zindi.africa/hackathons/spot-the-mask-challenge/leaderboard)
