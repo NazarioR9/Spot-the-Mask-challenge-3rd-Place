@@ -1,4 +1,4 @@
-# Spot-the-Mask-challenge-4th-Place
+# Spot-the-Mask-challenge-3rd-Place
 ## #All against the COVID-19
 
 <div align="center">
