@@ -128,8 +128,8 @@ You will need a suitable **NVIDIA GPU** and **CUDA Toolkit**(>=9.0) to perfectly
 
 | Name           |                     Zindi ID                     |                  Github ID               |
 |----------------|--------------------------------------------------|------------------------------------------|
-|Muhamed TUO     |[@Nazario😁](https://zindi.africa/users/Nazario)  |[@NazarioR9](https://github.com/NazarioR9)|
-| Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/Zeus)        |[@dric2018](https://github.com/dric2018)  |
+|Muhamed TUO     |[@Nazario😁](https://zindi.africa/users/Muhamed_Tuo)  |[@NazarioR9](https://github.com/NazarioR9)|
+| Cédric MANOUAN |[@Zeus😆](https://zindi.africa/users/I_am_Zeus_AI)        |[@dric2018](https://github.com/dric2018)  |
 |Emmanuel KOUPOH |[@eaedk😂](https://zindi.africa/users/eaedk)      |[@eaedk](https://github.com/eaedk)        |
 
 </div>
