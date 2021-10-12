@@ -2,7 +2,7 @@ python==3.6.8
 matplotlib==3.1.1
 pillow>=6.2.2
 tqdm==4.45.0
-opencv-python==4.1.2.30
+opencv-python==4.2.0.32
 keras==2.3.1
 numpy==1.18.2
 pandas==1.0.3
